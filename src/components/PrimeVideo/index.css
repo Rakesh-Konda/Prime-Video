@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.logo {
+  height: 150px;
+  width: 100%;
+}
+.bg {
+  background-color: black;
+  height: 100vh;
+}

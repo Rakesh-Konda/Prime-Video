@@ -1,0 +1,20 @@
+.h1 {
+  color: white;
+  font-size: 15px;
+}
+
+.hlo {
+  margin: 10px;
+}
+.ff {
+  margin-bottom: 20px;
+}
+.but {
+  background-color: transparent;
+  border: 0px solid transparent;
+}
+.close {
+  width: 40px;
+  height: 40px;
+  color: black;
+}
